@@ -1,8 +1,18 @@
-- 👋 Hi, I’m Hibbah Nadeem
-- 👀 I’m interested in WEB DEVELOPMENT and DATA SCIENCE
-- 🌱 I’m have done BSSE (Bachelors in Software Engineering) 
-- 💞️ I’m currently working as a Software Engineer at Impetus Systems, Karachi. I'm looking to collaborate on different web applications and data science related work
-- 📫 How to reach me? You can email me at hibbahnadeem@rocketmail.com
+## Hi, I’m Hibbah Nadeem 👋
+
+### About Me
+I am a passionate and driven professional with a strong interest in **Web Development** and **Data Science**. I hold a Bachelor's degree in Software Engineering (BSSE) and am currently pursuing an MS in Applied Artificial Intelligence.
+
+### Professional Experience
+I have around 3 years of experience working as a Software Engineer at Impetus Systems, Karachi. During my time there, I honed my skills in developing robust and scalable web applications.
+
+### Current Pursuits
+As I advance my education and expertise, I am eager to collaborate on various projects related to web development and data science. I am always on the lookout for opportunities to learn, grow, and contribute to exciting and innovative projects.
+
+### How to Reach Me
+Feel free to reach out to me via email at [nhibbah581@gmail.com](mailto:nhibbah581@gmail.com). I am open to collaboration and always excited to connect with like-minded professionals.
+
+Thank you for visiting my profile!
 
 <!---
 HibbahNadeem123/HibbahNadeem123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
